@@ -1,0 +1,92 @@
+.box {
+  background-color: white;
+  width: 70%;
+  height: 250px;
+  float: right;
+  margin-top: 80px;
+  border-radius: 20px;
+  padding-top: 10px;
+  color: #747d8c;
+  margin-bottom: -65px;
+}
+
+h4 {
+  display: inline-block;
+  margin-left: 15px;
+  color: black;
+}
+
+.company-name{
+margin-left: 95px;
+margin-top: -40px;
+}
+
+.inf-box-top {
+  box-shadow: -7px -7px 15px rgba(255, 255, 255, 0.75),
+    7px 7px 15px rgba(70, 70, 70, 0.12);
+  float: right;
+  padding: 5px;
+  border-radius: 250px;
+  margin-right: 10px;
+}
+
+p {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.companyimage {
+  width: 100px;
+  float: left;
+}
+
+.fas {
+  margin-right: 5px;
+}
+
+.far {
+  margin-right: 5px;
+}
+
+.fa-heart {
+  color: red;
+}
+
+.fa-money-bill-wave {
+  color: green;
+}
+
+.favorite {
+  color: red;
+}
+
+.money {
+  color: green;
+}
+
+.inf-box-bottom {
+  box-shadow: -7px -7px 15px rgba(255, 255, 255, 0.75),
+    7px 7px 15px rgba(70, 70, 70, 0.12);
+  float: right;
+  padding: 5px;
+  border-radius: 250px;
+  margin-right: 10px;
+}
+
+.inf-box-bottom-left{
+    box-shadow: -7px -7px 15px rgba(255, 255, 255, 0.75),
+    7px 7px 15px rgba(70, 70, 70, 0.12);
+  float: left;
+  padding: 5px;
+  border-radius: 250px;
+  margin-left: 10px;
+}
+
+.details {
+    color: #0984e3;
+}
+
+.date {
+    color: #8e44ad;
+    
+}

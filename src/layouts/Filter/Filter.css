@@ -1,0 +1,14 @@
+.filter-box {
+    background-color: white;
+    width: 20%;
+    float: left;
+    margin-top: 80px;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.filterh1{
+    display: flex;
+    justify-content: center;
+}
+

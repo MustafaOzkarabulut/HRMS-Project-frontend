@@ -1,0 +1,39 @@
+.candidatesbox{
+    background-color: white;
+    width: 70%;
+    height: 200px;
+    float: right;
+    margin-top: 80px;
+    border-radius: 20px;
+    padding-top: 10px;
+    color: #747d8c;
+    margin-bottom: -65px;
+}
+
+.candidatesh1 {
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 40% ;
+}
+
+hr {
+    border: 3px solid;
+    background-color: black;
+}
+
+.github{
+    color: #4263EB;
+}
+
+.linkedin{
+    color: blue;
+}
+
+.fa-github{
+    margin-right: 5px;
+}
+
+.fa-linkedin{
+    margin-right: 5px;
+}
+
