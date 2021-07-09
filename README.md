@@ -1,5 +1,6 @@
 # UML Component Diagram
-[Hrms-Project-UML-Component-Diagram](https://user-images.githubusercontent.com/81626732/125128323-90c7d200-e106-11eb-9411-913077d31da9.png)
+![Hrms-Project-UML-Component-Diagram](https://user-images.githubusercontent.com/81626732/125129014-83f7ae00-e107-11eb-9ebc-a342fd4a656a.png)
+
 
 ## Project photos
 ![Ekran Görüntüsü (295)](https://user-images.githubusercontent.com/81626732/125128875-527ee280-e107-11eb-9df8-2a3b8a54b611.png)
