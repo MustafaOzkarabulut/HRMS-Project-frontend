@@ -1,8 +1,16 @@
+# UML Component Diagram
+[Hrms-Project-UML-Component-Diagram](https://user-images.githubusercontent.com/81626732/125128323-90c7d200-e106-11eb-9411-913077d31da9.png)
+
+## Project photos
+![Ekran Görüntüsü (295)](https://user-images.githubusercontent.com/81626732/125128875-527ee280-e107-11eb-9df8-2a3b8a54b611.png)
+![Ekran Görüntüsü (296)](https://user-images.githubusercontent.com/81626732/125128900-5ad71d80-e107-11eb-9170-a800a745a5d0.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
 
 In the project directory, you can run:
 
