@@ -1,7 +1,6 @@
 .navbar {
     height: 60px;
     width: 100%;
-    position: fixed;
     background-color: #ffffff;
     box-shadow: 10px 10px 20px rgba(128, 128, 128, 0.61);
     display: inline-block;

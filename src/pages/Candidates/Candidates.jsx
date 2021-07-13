@@ -1,4 +1,5 @@
 import React, {useEffect,useState} from 'react'
+import {  } from "react-router-dom";
 import { ReactComponent as Logo } from '../../logo.svg';
 import '../Candidates/Candidates.css';
 import CandidatesService from '../../services/CandidatesService';
@@ -14,7 +15,6 @@ export default function Candidates() {
 
     return (
         <div  className="container">
-          <h1 className="candidatesh1">Candidates List</h1><hr/>
             {candidates.map(candidates=>( 
             <div className="candidatesbox">
                 <Logo className="companyimage"/>
