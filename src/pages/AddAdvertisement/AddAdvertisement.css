@@ -1,3 +1,19 @@
-.form {
+.do{
+    display: flex;
     justify-content: center;
+    background-color: red;
+    margin-top: 5%;
+    
+}
+
+input{
+    width: 200px;
+    padding: 12px 20px;
+    border: 2px solid rgb(0, 119, 255);
+    margin: 8px 0;
+    margin-right: 50px;
+    border-radius: 9999px;
+}
+button {
+    box-sizing: border-box;
 }

@@ -11,7 +11,7 @@ export default function Candidates() {
     useEffect(() => {
         let candidatesService = new CandidatesService()
         candidatesService.getCandidates().then(result=>setCandidates(result.data.data))
-    })
+    },[])
 
     return (
         <div  className="container">

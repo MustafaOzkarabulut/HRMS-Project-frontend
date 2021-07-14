@@ -10,8 +10,8 @@ export default function Navi() {
           <h1>HRMS</h1>
         </div>
         <div className="buttons">
-          <button className="signin">Giriş Yap</button>
-          <button className="signup">Kaydol</button>
+          <button className="btn signin">Giriş Yap</button>
+          <button className="btn signup">Kaydol</button>
         </div>
         </div> 
     </div>

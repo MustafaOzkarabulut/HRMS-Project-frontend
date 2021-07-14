@@ -15,7 +15,7 @@ export default function Dashboard() {
 
             <Route exact path="/Advertisement" component={Advertisement}/>
             <Route path="/Candidates" component={Candidates} />
-            <Route path="/AddAdvertisement" component={AddAdvertisement} />
+            <Route path="/advertisement/add" component={AddAdvertisement} />
         </div>
     )
 }

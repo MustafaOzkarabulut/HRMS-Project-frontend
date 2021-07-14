@@ -1,4 +1,5 @@
 import './App.css';
+import 'semantic-ui-css/semantic.min.css'
 import Navi from './layouts/Navbar/Navi';
 import Footer from './layouts/Footer/Footer.jsx';
 import Dashboard from './layouts/Dashboard/Dashboard';
@@ -14,7 +15,7 @@ function App() {
       <div className="container">
       <Route exact path='/advertisement' component={Dashboard} />
       <Route exact path='/candidates' component={Dashboard} />
-      <Route path="/AddAdvertisement" component={AddAdvertisement} />
+      <Route path="/Advertisement/Add" component={AddAdvertisement} />
       <Route exact path='/' component={Home} />
       <Route exact path='/home' component={Home} />
       </div>
