@@ -1,0 +1,32 @@
+.find-container{
+    display: flex;
+    justify-items: flex-start;
+    margin-top: 50px;
+    width: 500px;
+    flex-wrap: wrap;
+}
+
+
+.inf-box {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 20px;
+    box-sizing: border-box;
+    margin-left: 50px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+
+}
+
+.step-info{
+    width: 500px;
+    display: inline-block;
+    margin-top: -800px;
+    margin-right: 10%;
+    margin-left: 600px;
+}
+
+.step-info>p {
+    margin-left: 0;
+}
