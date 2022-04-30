@@ -5,7 +5,8 @@
 
 
 ## Project photos
-![advertisements](https://user-images.githubusercontent.com/81626732/157324812-301246a1-0597-40bf-ae97-2bb23d0cb532.png)
+![FireShot Capture 015 - İş İlanları -HRMS - localhost](https://user-images.githubusercontent.com/81626732/166119516-9e797548-7ff4-4408-9ad1-98ce36467d4e.png)
+
 ![advertisementsdetail](https://user-images.githubusercontent.com/81626732/157324826-e1422a99-2000-4cd2-9085-7edde6150ba0.png)
 ![candidates](https://user-images.githubusercontent.com/81626732/157324835-5ff795c5-b0c0-4d24-8092-7e663cbe6c3f.png)
 ![employerdetail](https://user-images.githubusercontent.com/81626732/157324845-5cad145e-74ab-4335-a406-61b260d248cb.png)
