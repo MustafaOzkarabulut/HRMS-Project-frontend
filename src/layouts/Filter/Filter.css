@@ -1,8 +1,8 @@
 .filter-box {
     background-color: white;
-    width: 20%;
+    width: 100%;
     float: left;
-    margin-top: 80px;
+    margin-top: 50px;
     border-radius: 20px;
     padding: 15px;
 }
@@ -12,3 +12,21 @@
     justify-content: center;
 }
 
+.checkboxxx{
+    margin-left: 3px;
+    margin-right: 3px;
+    width: 10px;
+}
+
+.labelcheck{
+   margin-left: 10px;
+}
+
+.labelcheck{
+    margin: 0;
+ }
+
+ input[type="checkbox"] {
+     width: 14px;
+     height: 14px;
+}

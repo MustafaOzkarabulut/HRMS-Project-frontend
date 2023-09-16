@@ -1,0 +1,44 @@
+.background-comments{
+    width: 80%;
+    background-color:#a95cf1;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 14px;
+    padding: 25px 70px 25px;
+    justify-content: space-between;
+    
+}
+
+/*
+.comments_text_area{
+    display: flex;
+
+}
+
+.comments_text {
+    color: white;
+    font-size: xx-large;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.coments_cc{
+    
+}
+
+.comments_boxs{
+    display: flex;
+}
+
+.comments_box{
+    justify-content: flex-start;
+    align-items: center;
+    width: 200px;
+    height: 100px;
+    background-color: white;
+    margin: 10px;
+}
+*/
+

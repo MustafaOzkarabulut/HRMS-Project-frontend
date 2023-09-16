@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
 .container {
     width: 90%;
     margin: auto;
@@ -6,4 +8,92 @@
 body{
     background-color: #f1f2f6;
     margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/*Rightbar.jsx*/
+
+.rightbar {
+    position: sticky;
+    background-color: white;
+    width: 100%;
+    float: left;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.rightbar-head h2{
+    font-weight: 600;
+}
+
+.rightbar-content a {
+    color:#4F46E5;
+}
+
+.rightbar .hr {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    align-content: center;
+}
+
+.rightbar .hr hr{
+    display: flex;
+    width: 100%;
+    border: 1px solid #4F46E5;
+}
+
+.rightbar .hr p{
+    padding: auto;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+.rightbar-login {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.rightbar-login a {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #4F46E5;
+    justify-content: center;
+    border-radius: 20px;
+    color: white;
+}
+
+/* CommpanyBox.jsx*/
+.comp-box {
+    margin-left: 10px;
+    background-color: white;
+    width: 30%;
+    height: 100%;
+    float: right;
+    margin-top: 2.5rem;
+    border-radius: 20px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.comp-box img {
+    width: 110px;
+}
+
+.comp-box .details-compp p{
+    justify-content: start;
 }

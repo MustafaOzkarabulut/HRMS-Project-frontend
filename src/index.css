@@ -15,3 +15,81 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/*Dashboard.jsx*/
+
+.advert-dash {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.advert-dash .sidebar{
+  width: 25%;
+  padding-right: 15px;
+  position: sticky;
+}
+
+.advert-dash .sidebar .content {
+  width: auto;
+  background-color: rgb(211, 0, 211);
+  align-items: center;
+}
+
+.advert-dash .sidebar .content .sortby-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.advert-dash .right-bar {
+  width: 25%;
+  padding-left: 15px;
+}
+
+.custom-select{
+  display: flex;
+  justify-content: flex-end;
+  
+}
+/*------ Components ------*/
+
+/*SortBy.jsx*/
+
+.custom-select select {
+  width: 150px;
+  height: 40px;
+  padding-left: 10px;
+  border-radius: 25px;
+  border: 1px solid #9e9e9e;
+}
+
+
+
+/*Rightbar.jsx*/
+
+/*AdvertDashboard.jsx*/
+.advert-detail-dash {
+  padding-top: 20px;
+  display: flex;
+  justify-content: start;
+  align-items: flex-start;
+  margin-left: 10%;
+  margin-right: 10%;
+
+}
+
+.advert-detail-dash .left-dash {
+  width: 100%;
+}
+
+.advert-detail-dash .right-dash {
+  justify-content: center;
+  align-items: center;
+  
+  padding-left: 10px;
+  padding-right: 10px;
+}

@@ -1,0 +1,31 @@
+.topbox{
+    width: 100%;
+    display: flex;
+    
+}
+
+.topdash{
+    width: 70%;
+    margin-right: 10px;
+}
+
+.details-comp{
+    width: 100%;
+    background-color: aqua;
+    height: 800px;
+}
+
+.top-inf-bar{
+    border: 1px solid black;
+    
+}
+
+.top-inf-bar > h1 {
+    font-weight: 700;
+    font-size: xx-large;    
+}
+
+.top-inf-bar > h2 {
+    font-weight: 500;
+    font-size: large;    
+}

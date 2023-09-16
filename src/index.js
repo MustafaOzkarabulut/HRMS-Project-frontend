@@ -3,10 +3,16 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { BrowserRouter } from 'react-router-dom';
+import { BrowserRouter} from 'react-router-dom';
+
+import ScrollToTop from './utilities/utilities.ScrollToTop.jsx'
+import NotFound from './pages/NotFound';
 
 ReactDOM.render(
-  <BrowserRouter><App /></BrowserRouter>,
+  <BrowserRouter>
+    <ScrollToTop/>
+    <App />
+  </BrowserRouter>,
   document.getElementById('root')
 );
 

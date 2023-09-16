@@ -2,22 +2,54 @@
     display: flex;
     justify-items: flex-start;
     margin-top: 50px;
-    width: 500px;
+    margin-bottom: 50px;
     flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
 }
 
+.inf-box>svg { 
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.inf-box>span { 
+    color: #4F46E5;
+    margin-top: 45px ;
+    
+}
 
 .inf-box {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     width: 200px;
     height: 200px;
     background-color: white;
     border-radius: 20px;
     box-sizing: border-box;
-    margin-left: 50px;
-    flex-wrap: wrap;
+    margin-left: 50px;  
     margin-top: 20px;
-
+    padding: 20px;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    transition: 4ms;
 }
+
+.inf-box:hover {
+    color: #4F46E5;
+    fill: #4F46E5;
+    box-shadow: rgba(44, 44, 255, 0.486) 0px 30px 60px -12px, rgba(91, 62, 255, 0.3) 0px 18px 36px -18px;
+    transition: 0.5s;
+}
+
+.inf-box>svg:hover{     
+    fill: #4F46E5;
+    transition: 0.5s;
+}
+
 
 .step-info{
     width: 500px;
